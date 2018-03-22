@@ -1,2 +1,7 @@
-# luigi-tutorial
-Tutorial de Luigi básico
+# cinvespy-taller
+
+```
+conda install luigi
+conda install scikit-learn
+conda install pandas
+```
